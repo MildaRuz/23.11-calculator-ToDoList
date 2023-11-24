@@ -1,0 +1,9 @@
+body {
+  background-color: gray;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  max-width: 800px;
+}

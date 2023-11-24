@@ -1,0 +1,10 @@
+.container,
+.output {
+  max-width: 200px;
+  border: 1px solid black;
+}
+
+.output {
+  height: 30px;
+  padding: 5px;
+}
